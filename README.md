@@ -1,5 +1,5 @@
 # Actuarial-Computing-Excel-Access-VBA-Repo
-  Actuarial Computing (MAT 253 , ISu)
+  Actuarial Computing (MAT 253 , ISU)
   
 # Using VLOOKUPS
 This code lab focuses on using VLOOKUPS to fill out tables listed under for number of claims, referencing the first table on the data tab. It involves making use of values in rows in order to complete the 3rd parameter of the VLOOKUP function.  It also involvs the correct use of absolute and relative cell referencing so that can be copied the same function across the entire YELLOW area.
